@@ -1,0 +1,51 @@
+body{
+    background-color: #232323
+    
+
+
+}
+h1{
+background-color: #777786;
+ color: white;
+ text-align: center;
+ max-height: 320px;
+
+}
+.squares{
+    width:30%;
+    background:purple;
+    padding-bottom: 30%;
+    margin:1.66%;
+    float:left;
+    border-radius: 15px;
+
+}
+#container{
+ max-width:600px;
+  margin: 0 auto; ;
+
+
+}
+#stripe{
+   text-align: center;
+   background-color: white;
+
+}
+ #scores{
+     color: white;
+     margin: 50px 50px;
+     float:right;
+     position: relative;
+     
+
+
+
+ }
+ #message{
+      text-align: center;
+      display: inline;
+
+
+
+
+ }
